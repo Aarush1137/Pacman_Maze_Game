@@ -34,7 +34,7 @@ This is a maze game where you control a Pacman character to hunt down a ghost. T
 
 ## Screenshots
 
-![Gameplay](gameplay.png)
+![Gameplay](Gameplay.png)
 
 ## Contributing
 
