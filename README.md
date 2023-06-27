@@ -5,7 +5,7 @@ This is a maze game where you control a Pacman character to hunt down a ghost. T
 ## Features
 
 - Three difficulty modes: easy, medium, and hard.
-- Control a Pacman character using arrow keys.
+- Control a Pacman character using the arrow keys.
 - Find and catch the ghost within the maze.
 - Display a score indicating your progress.
 
